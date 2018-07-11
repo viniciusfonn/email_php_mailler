@@ -1,8 +1,6 @@
 <?php 
-require_once("funcoes-login.php");
 
 
-verificausuario();
 
 
 if(isset($_GET['sucesso']) && $_GET['sucesso']==true){
